@@ -1,0 +1,324 @@
+
+body{
+    background-color: rgb(230, 226, 226);   
+    
+    
+}
+.h{
+height : 500px;
+    background-image: url(78b44144-2ced-4451-824f-2c249ce0a969.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:cover;
+    margin: 0%;
+  
+}
+.hh {
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: 100;
+    font-size:40px;
+    text-align: center;
+    padding-top: 50px;
+}
+.ha{
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: 700;
+    font-size:55px;
+    font-stretch: extra-expanded;
+    text-align: center;
+
+
+}
+.hl{
+  padding-top: 130px;
+  font-family: Arial, Verdana, sans-serif;
+  padding-bottom: 0px;
+  font-size:50px;
+  font-stretch: extra-expanded;
+  text-align: center;
+  font-weight: 550;
+
+
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #fffefe;
+    padding: 20px;
+}
+
+ .navbar a:hover {
+    color: #0cbd41;
+    font-size:20px ;
+
+    
+}
+.slim-font {
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    color: rgb(92, 92, 92);
+  }.slim-fon {
+    text-align: center;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    color: rgb(99, 98, 98);
+  } h1 {
+    text-align: center;
+        font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 300;
+
+  }
+  .space{
+    padding-bottom: 50px;
+  }
+  .shadow{
+right :-150px;
+position:relative;
+width: 1600px;
+height:500px;
+background-color: rgb(206, 205, 205);
+
+
+
+
+
+  }.image-container {
+    position: relative;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    
+   
+  }
+  .image-container img {
+    width: 30%;
+    margin: 6px;
+    object-fit: cover;
+  }
+  #hw{
+padding-top: 130px;
+    font-family: Arial, Verdana, sans-serif;
+    padding-bottom: 0px;
+    font-size:45px;
+    font-stretch: extra-expanded;
+    text-align: center;
+    font-weight: 550;
+
+  }
+  .hq{
+
+
+    text-align: center;
+    font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+font-weight: 300;
+  }
+  .ww{
+    text-align: left;
+    padding-top: 150px;
+      font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 300;
+  color: #fffefe;
+  
+    }
+  #qq{
+    margin-top: 250px;
+position: relative;
+ width: 500px;
+ height:500px;
+background-color: #383838;
+left: 200px;
+  } 
+   .kk{
+ position: absolute;
+ left : 500px;
+ align-items: center;
+ width : 1000.531px;
+ height: 637.078px;
+ transform: translateY(-80px);
+ 
+  }
+.header{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+padding: 10px 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+z-index: 100; 
+background-color:rgba(0, 0, 0, 0);
+border-bottom-left-radius: 10px;
+
+}
+.logo{
+
+font-size: 35px;
+color:rgb(0, 0, 0);
+font-weight:600;
+text-decoration: none;
+
+
+}
+.navbar a {
+font-size:18px ;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+margin-right: 40px ;
+}
+.hi{
+position: relative;
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: 100;
+  font-size:20px;
+  padding-left: 20px;
+  
+  top: 150px;
+  padding-top: 50px;
+  color: #ffffff;
+
+}
+.btn{
+  background-color: #000000; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  position: relative;
+  left : 46.5%;
+}
+.btn:hover {
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  padding: 16px 40px;
+  background-color: #31c41e; 
+  left: 46.1%;
+  
+}
+.image {
+  position: relative;
+  transform: translateY(50PX);
+  height:600px;
+  background-position: top;
+background-size:cover;
+background-repeat: no-repeat;
+
+background-image: url(Xbox-Wireless-Controller_Hero-0_Carbon-Black_3000x1682_VP5-1920x600.jfif);
+animation: change 10s infinite ease-in-out ;
+}
+.ff{
+position: absolute;
+top: 290px;
+left: 200px;
+width:400px;
+
+}
+.qw{
+color: #000000;
+padding-top: 50px;
+    font-size: 2.3125rem;
+    margin-bottom: 1.25rem;
+}
+.qf{
+font-weight: 600;
+  color: #000000;
+  padding-bottom: 50px;
+  font-size: 2.3125rem;
+  margin-bottom: 1.25rem;
+
+}
+.fg{
+  position: absolute;
+  top: 180px;
+  left: 150px;
+  width:700px;
+  font-size: 2.3125rem;
+  margin-bottom: 1.25rem;
+
+}
+@keyframes change {
+0%{
+background-image: url(Xbox-Wireless-Controller_Hero-0_Carbon-Black_3000x1682_VP5-1920x600.jfif);
+}
+12.5%{
+  background-image: url(Xbox-Wireless-Controller_Merch-Hero-0_957848_3000x1682_VP5-1920x600.jfif);
+  }
+  25%{
+    background-image: url(Xbox-Wireless-Controller_Hero-0_Velocity-Green_3000x1682_VP5-1920x600.jfif);
+    }
+    37%{
+      background-image: url(Xbox-Wireless-Controller_Hero-0_Shock-Blue_3000x1682_VP5-1920x600.jfif);
+      }
+      50%{
+        background-image: url(Xbox-Wireless-Controller_Hero-0_Robot-White_3000x1682_VP5-1920x600.jfif);
+        }
+        62%{
+          background-image: url(Xbox-Wireless-Controller_Hero-0_Pulse-Red_3000x1682_VP5-1920x600.jfif);
+          }
+          73%{
+            background-image: url(Xbox-Wireless-Controller_Hero-0_Electric-Volt_3000x1682_VP5-1920x600.jfif);
+            }
+            87%{
+              background-image: url(Xbox-Wireless-Controller_Hero-0_Deep-Pink_3000x1682_VP5-1920x600.jfif);
+              }
+            }
+            .hhh{
+width: 900px;
+margin-left: 480px;
+            }
+
+.pp {
+padding-top: 80px;
+position: relative;
+padding-left: 55px;
+width: 700px;
+height: 500px;
+color: #000000;
+
+}
+#ky{
+height: 130%;
+width: 170%;
+}
+.jj{
+margin-top: 150px;
+  right :-290px;
+  position:relative;
+  width: 1300px;
+  height:650px;
+  background-color: rgb(206, 205, 205);
+  
+
+}
+
+.po {
+  padding-top: 80px;
+  position: relative;
+  padding-left: 68px;
+  width: 680px;
+  height: 480px;
+  color: #000000;
+  
+  }
